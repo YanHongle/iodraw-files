@@ -120,15 +120,6 @@
         <mxCell id="l7KC7zKZ_YSh5H5TVR2f-9" value="&lt;ul&gt;&lt;li class=&quot;li1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;Reached POD7 landmark&amp;nbsp;(n=269)&lt;/li&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;&lt;/p&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" y="740" width="270" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="l7KC7zKZ_YSh5H5TVR2f-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l7KC7zKZ_YSh5H5TVR2f-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="1000.0000000000002" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="990" />
-              <mxPoint x="200" y="990" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l7KC7zKZ_YSh5H5TVR2f-11" value="&lt;ul&gt;&lt;li class=&quot;li1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;Primary PTA phenotype and landmark-survival cohort&amp;nbsp;&amp;nbsp;(n=268)&lt;/li&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;&lt;/p&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" y="870" width="430" height="50" as="geometry" />
         </mxCell>
@@ -162,17 +153,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7KC7zKZ_YSh5H5TVR2f-22" value="&amp;nbsp;Excluded from trajectory analysis (n=1)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry x="-0.0018" y="10" relative="1" as="geometry">
-            <mxPoint as="offset" />
-            <mxPoint x="200" y="959.5" as="sourcePoint" />
-            <mxPoint x="430" y="960.0000000000002" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="200" y="961" />
-              <mxPoint x="320" y="961" />
-              <mxPoint x="320" y="960" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="l7KC7zKZ_YSh5H5TVR2f-23" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="870" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
