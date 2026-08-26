@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Tszc29cHxw15ZkkE2yF4-19" value="&lt;ul&gt;&lt;li class=&quot;li1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;Surgically treated ATAAD patients meeting clinical eligibility criteria (n=285)&lt;/li&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;&lt;/p&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" parent="1" vertex="1">
-          <mxGeometry x="80" y="480" width="640" height="50" as="geometry" />
+          <mxGeometry x="80" y="480" width="500" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Tszc29cHxw15ZkkE2yF4-31" value="&lt;ul&gt;&lt;li class=&quot;li1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;Patients with aortic dissection hospitalized from January 2021 to December 2023 (n=1002)&lt;/li&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;#34;helvetica neue&amp;#34;&quot;&gt;&lt;/p&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" parent="1" vertex="1">
           <mxGeometry x="80" y="60" width="640" height="50" as="geometry" />
@@ -85,7 +85,7 @@
           <mxGeometry x="80" y="610" width="640" height="50" as="geometry" />
         </mxCell>
         <mxCell id="l7KC7zKZ_YSh5H5TVR2f-4" value="&lt;div&gt;&lt;ul class=&quot;ul1&quot; style=&quot;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial; font-family: &amp;quot;helvetica neue&amp;quot;; font-size: 13px;&quot;&gt;Essential source perioperative laboratory/PTA data unavailable for reliable exposure ascertainment&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;&lt;/p&gt;&lt;/div&gt;&lt;ul&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;&lt;/p&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="1">
-          <mxGeometry x="380" y="520" width="330" height="100" as="geometry" />
+          <mxGeometry x="380" y="540" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="l7KC7zKZ_YSh5H5TVR2f-5" value="Excluded&amp;nbsp;&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot; ; text-align: left&quot;&gt;(n=1）&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;" edge="1" parent="1">
           <mxGeometry y="10" relative="1" as="geometry">
