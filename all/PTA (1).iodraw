@@ -159,8 +159,8 @@
         <mxCell id="l7KC7zKZ_YSh5H5TVR2f-24" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Incremental comparison cohort&lt;/font&gt;&lt;div style=&quot;font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;&amp;nbsp; trajectory sensitivity cohort&amp;nbsp;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="980" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="l7KC7zKZ_YSh5H5TVR2f-25" value="Mechanical-valve-excluded&lt;div&gt;trajectory sensitivity cohort&amp;nbsp;&lt;div&gt;n=197; 20 deaths&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="970" width="220" height="60" as="geometry" />
+        <mxCell id="l7KC7zKZ_YSh5H5TVR2f-25" value="Mechanical-valve-excluded&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;trajectory sensitivity cohort&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;div&gt;n=197; 20 deaths&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="970" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
