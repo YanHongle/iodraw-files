@@ -156,11 +156,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l7KC7zKZ_YSh5H5TVR2f-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="l7KC7zKZ_YSh5H5TVR2f-18">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="1024.9354838709678" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l7KC7zKZ_YSh5H5TVR2f-18" value="&lt;ul&gt;&lt;li class=&quot;li1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;Reached POD7 landmark&lt;br/&gt;(n=269)&lt;/li&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px ; font-stretch: normal ; font-size: 13px ; line-height: normal ; font-family: &amp;quot;helvetica neue&amp;quot;&quot;&gt;&lt;/p&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="80" y="1000" width="240" height="50" as="geometry" />
         </mxCell>
